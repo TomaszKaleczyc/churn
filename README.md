@@ -1,2 +1,2 @@
-# churn
-Churn problem solution
+# Churn Prediction
+Churn problem analysis
